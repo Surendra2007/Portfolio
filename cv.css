@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #1f242d;
+    color: #fff;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    background-color: #323946;
+    padding: 20px;
+    box-shadow: 0 0 10px #7cf03d;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    color: #7cf03d;
+}
+
+header p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+header p a{
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #ff6820;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 5px 0;
+}
+
+.job, .project {
+    margin-bottom: 15px;
+}
+
