@@ -32,7 +32,10 @@
     margin-right: 1.5rem;
 }
 .contact-detail .detail p:first-child{
-    color: #7cf03d;
+    color: #fff;
+}
+.Email p{
+    color: #fff;
 }
 .contact-box form{
     background-color: #323946;
