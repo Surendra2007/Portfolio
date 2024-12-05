@@ -6,7 +6,6 @@ menuIcon.addEventListener('click',()=>{
 })
 const activePage=()=>{
     const header=document.querySelector('header');
-
     menuIcon.classList.remove('fa-x');
     navBar.classList.remove('active');
 }
