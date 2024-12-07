@@ -1,10 +1,18 @@
 .resume-container {
   display: flex;
-  gap: 20px;
 }
 .resume-container .first {
   width: 500px;
   min-width: 500px;
+  margin-right: 30px;
+}
+
+@media screen and (max-width: 1122px) {
+  .resume-container .first {
+    width: 300px;
+    min-width: 300px;
+    margin-right: 20px;
+  }
 }
 
 @media (width<769px) {
