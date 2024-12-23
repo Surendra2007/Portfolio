@@ -39,9 +39,10 @@ header.active{
         opacity: 1;
     }
 }
+
 .logo{
     font-size: 3rem;
-    color: #fff;
+    color: #ffffff;
     font-weight: 700;
 }
 nav a{
